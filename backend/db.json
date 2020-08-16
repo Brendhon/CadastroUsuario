@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Artur",
+        "email": "artur@gmail.com"
+    }, {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@gmail.com"
+    }, {
+        "id": 3,
+        "name": "Dalas",
+        "email": "dalas@gmail.com"
+    }, {
+        "id": 4,
+        "name": "Carlos",
+        "email": "carlos@gmail.com"
+    }, {
+        "id": 5,
+        "name": "blendho",
+        "email": "beh@gmail.com"
+    }]
+}
